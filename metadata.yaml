@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31719'
     url: http://www.gutenberg.org/2009/agents/31719
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25937#Studies-in-Literature-and-History
 gutenberg_issued: '2008-06-30'
 gutenberg_type: Text
 identifiers:
